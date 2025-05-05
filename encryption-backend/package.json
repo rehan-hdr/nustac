@@ -1,0 +1,32 @@
+{
+  "name": "encryption-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "body-parser": "^2.2.0",
+    "convex": "^1.23.0",
+    "convex-helpers": "^0.1.81",
+    "cors": "^2.8.5",
+    "crystals-kyber": "^5.1.0",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "pqclean": "^0.8.1",
+    "tsx": "^4.19.4"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/express": "^5.0.1",
+    "@types/node": "^22.15.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}

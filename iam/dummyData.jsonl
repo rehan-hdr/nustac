@@ -1,0 +1,10 @@
+{"Name": "John Doe", "CMS": 123456, "Email": "john.doe@seecs.edu.pk", "Password": "", "Department": "Engineering", "Access": ["CR1", "CR2", "Lab1"]}
+{"Name": "Jane Smith", "CMS": 654321, "Email": "jane.smith@nbs.edu.pk", "Password": "", "Department": "Business", "Access": ["CR2", "Lab2"]}
+{"Name": "Alice Johnson", "CMS": 789012, "Email": "alice.johnson@seecs.edu.pk", "Password": "", "Department": "Computer Science", "Access": ["CR1", "Lab1"]}
+{"Name": "Bob Brown", "CMS": 234567, "Email": "bob.brown@seecs.edu.pk", "Password": "", "Department": "Engineering", "Access": ["CR1", "Lab3"]}
+{"Name": "Charlie Davis", "CMS": 345678, "Email": "charlie.davis@nbs.edu.pk", "Password": "", "Department": "Mathematics", "Access": ["CR2"]}
+{"Name": "Eve Wilson", "CMS": 456789, "Email": "eve.wilson@seecs.edu.pk", "Password": "", "Department": "Physics", "Access": ["CR1", "Lab2"]}
+{"Name": "Frank White", "CMS": 567890, "Email": "frank.white@nbs.edu.pk", "Password": "", "Department": "Chemistry", "Access": ["CR1", "Lab1"]}
+{"Name": "Grace Harris", "CMS": 678901, "Email": "grace.harris@seecs.edu.pk", "Password": "", "Department": "Engineering", "Access": ["Lab3"]}
+{"Name": "Henry Clark", "CMS": 789123, "Email": "henry.clark@nbs.edu.pk", "Password": "", "Department": "Biology", "Access": ["CR2", "Lab2"]}
+{"Name": "Ivy Martinez", "CMS": 890234, "Email": "ivy.martinez@seecs.edu.pk", "Password": "", "Department": "Engineering", "Access": ["CR1", "Lab3"]}
